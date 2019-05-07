@@ -1,9 +1,9 @@
-package snippet;
+package simpleArraySum;
 import java.io.*;
 import java.util.*;
 
 
-public class Solution {
+public class SimpleArraySum {
 
     static int simpleArraySum(int[] ar) {
     	int sum=0;

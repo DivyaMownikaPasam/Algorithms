@@ -1,4 +1,4 @@
-package addBinaryStrings;
+package testAlgos;
 
 public class addBinaryStrings {
 

@@ -1,5 +1,7 @@
 package testAlgos;
 
+import testAlgos.LinkedList.Node;
+
 public class MergeTwoLists {
 
 	
